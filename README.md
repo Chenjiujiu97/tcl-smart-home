@@ -5,7 +5,7 @@ TCL AI 智能家居虚拟管家 (TCL Smart Home AI Gateway)
 🌐 在线体验 (Demo)
 
 评委与用户可直接通过以下链接在浏览器中体验演示效果，无需安装任何开发环境：
-👉 点击即刻体验：TCL 智能管家
+https://tcl-smart-home-auqybcx6nr7byrdgn65kwc.streamlit.app/
 
 💡 核心功能亮点
 
