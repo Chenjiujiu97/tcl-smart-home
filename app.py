@@ -246,7 +246,7 @@ agent_executor = create_react_agent(llm, tools, checkpointer=memory)
 # ==========================================
 # 4. 构建可视化的网页界面 
 # ==========================================
-st.title("🏠 TCL AI 智能家居虚拟网关 (演示版)")
+st.title("🏠 TCL AI 智能家居虚拟网关")
 
 # --- 左侧边栏：设备状态 ---
 with st.sidebar:
